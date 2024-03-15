@@ -1,5 +1,5 @@
-# RFM-Analysis
-## Using Python to segment customers for an e-commerce company using the RFM analysis
+# Churn Prediction
+## Build the Machine Learning model for predicting churned users
 ### Introduction
 One e-commerce company has a project on predicting churned users in order to offer potential promotions.
 The attached file is the dataset that is offered by the company (churn_predict.csv). You will using this dataset to answer below questions:
